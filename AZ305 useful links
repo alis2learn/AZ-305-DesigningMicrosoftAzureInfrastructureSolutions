@@ -12,6 +12,10 @@ Database decision:
     https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree
     
     https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/data-options
+    
+    
+    Service Principal:
+    https://devblogs.microsoft.com/devops/demystifying-service-principals-managed-identities/#:~:text=Demystifying%20Service%20Principals%20%E2%80%93%20Managed%20Identities%201%20Azure,...%203%20Managed%20Identities.%20...%204%20Summary.%20
 
 
 
